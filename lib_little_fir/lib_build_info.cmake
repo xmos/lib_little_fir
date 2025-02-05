@@ -1,0 +1,4 @@
+set(LIB_NAME lib_little_fir)
+set(LIB_VERSION 1.0.0)
+set(LIB_INCLUDES api)
+XMOS_REGISTER_MODULE()
